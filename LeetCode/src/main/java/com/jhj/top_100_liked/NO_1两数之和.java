@@ -1,4 +1,4 @@
-package com.jhj.top_100_liked.hash;
+package com.jhj.top_100_liked;
 
 import org.junit.Test;
 
