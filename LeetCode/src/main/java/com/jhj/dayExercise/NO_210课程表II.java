@@ -1,4 +1,4 @@
-package com.jhj;
+package com.jhj.dayExercise;
 
 import org.junit.Test;
 
