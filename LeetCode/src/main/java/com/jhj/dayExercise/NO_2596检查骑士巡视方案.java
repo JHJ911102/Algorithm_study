@@ -13,6 +13,12 @@ import java.util.HashMap;
  * 给你一个nxn的整数矩阵grid，由范围[0,n*n-1]内的不同整数组成，
  * 其中grid[row][col]表示单元格(row,col)是骑士访问的第grid[row][col]个单元格。骑士的行动是从下标0开始的。
  * 如果grid表示了骑士的有效巡视方案，返回true；否则返回false。
+ *
+ * 提示：
+ * n == grid.length == grid[i].length
+ * 3 <= n <= 7
+ * 0 <= grid[row][col] < n * n
+ * grid 中的所有整数 互不相同
  */
 public class NO_2596检查骑士巡视方案 {
     @Test
